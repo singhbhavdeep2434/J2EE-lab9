@@ -1,0 +1,4 @@
+com/trading/servlet/TradeServlet.class
+com/trading/ejb/TradingSessionBean.class
+com/trading/ejb/StockTransactionBean.class
+com/trading/ejb/MarketDataManager.class
